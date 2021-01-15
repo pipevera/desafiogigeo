@@ -1,0 +1,28 @@
+@media only screen and (max-width: 600px) {
+  .contenedor__main-item {
+    margin: 10px 30px;
+  }
+  .contenedor__main__titulo {
+    text-align: center;
+  }
+}
+
+
+.contenedor__main{
+  h3 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: normal;
+  }
+}
+
+.contenedor__main-item {
+  h4 {
+    padding-top: 10px;
+    font-size: 20px;
+    margin: 0;
+  }
+  p {
+    font-size: 15px;
+  }
+}
